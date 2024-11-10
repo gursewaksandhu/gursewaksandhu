@@ -3,7 +3,7 @@
 My name is Gursewak Sandhu and I am a student at the University of Toronto. I am currently doing a Bachelor of Science with a Computer Science Specialist and Minor in Mathematical Sciences.
 
 - 🌱 I’m currently learning full stack web development
-- 🔭 I’m currently working on a website for university clubs to notify students of upcoming events
+- 🔭 I’m currently working on a dynamic scheduling app to make it easier to decide what task you should be working on
 - 💬 Ask me about what manga I am currently reading
 
 
