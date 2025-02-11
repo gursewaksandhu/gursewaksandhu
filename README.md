@@ -3,7 +3,7 @@
 My name is Gursewak Sandhu and I am a student at the University of Toronto. I am currently doing a Bachelor of Science with a Computer Science Specialist and Minor in Mathematical Sciences.
 
 - 👾 I'm currently making small iOS apps for fun using SwiftUI and Swift
-- 🤖 My most recent project is called Daily Vocab an iOS app for learning a word a day in an effort to expand my vocabulary.
+- 🤖 My most recent project is called Daily Vocab an iOS app for learning a word a day in an effort to expand my vocabulary (Not published to App Store yet).
 - 🔭 I'm currently trying to learn how to make apps for my Apple Watch
 - 💬 Ask me about what manga I am currently reading
 
